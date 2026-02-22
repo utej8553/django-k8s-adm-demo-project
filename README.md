@@ -98,7 +98,7 @@ NodePort (example: 31388)
 Access format:
 
 
-http://<EC2_PUBLIC_IP>:<NodePort>
+http://<EC2_PUBLIC_IP>:NODEPORT
 
 
 ---
